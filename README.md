@@ -3,6 +3,9 @@ A Discord bot to crosslink your Discord server with your minecraft server
 
 This bot was created to allow chatting between a Discord Server and a Minecraft Server.
 Users can write in a specified text channel on Discord and have their messages being broadcasted to everyone on a Minecraft Server. If you are a player on that Minecraft Server, type /dc <your Message> to respond.
+  
+  Get it here!
+  ![Download_section](https://img.shields.io/github/downloads/zerklickt/mclink-bot/total?color=brightgreen&label=All%20downloads)
 
 ## How to use
 1. Download jar file and place it in your plugins folder
